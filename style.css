@@ -329,6 +329,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 1.5em;
+  padding-block:1em;
 }
 .flex-con img {
   border-radius: 50%;
